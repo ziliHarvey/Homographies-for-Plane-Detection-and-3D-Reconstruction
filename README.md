@@ -4,6 +4,9 @@ This repo contains an implementation of 3D reconstruction and Plane detection us
 ## Sample Results
 <img src="https://github.com/ziliHarvey/3D-Reconstruction-using-Homography-Constraints-for-Uncalibrated-Images/blob/master/images/input/1_002.jpg" width=30% height=30%><img src="https://github.com/ziliHarvey/3D-Reconstruction-using-Homography-Constraints-for-Uncalibrated-Images/blob/master/demo/demo.gif" width=40% height=40%><img src="https://github.com/ziliHarvey/3D-Reconstruction-using-Homography-Constraints-for-Uncalibrated-Images/blob/master/images/input/1_003.jpg" width=30% height=30%>
 
+## Pipeline
+<img src="https://github.com/ziliHarvey/3D-Reconstruction-using-Homography-Constraints-for-Uncalibrated-Images/blob/master/demo/pipeline.jpg">
+
 ## Run
 MATLAB 2018 or higher version is recommended.
 
